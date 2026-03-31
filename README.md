@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @NiveditaSingh
-- 👀 I’m interested in SDE2 Role or Senior Backend Developer
-- 🌱 I’m currently learning Backend Part of web Development.
-- 💞️ I’m looking to collaborate on Open Source 
--  📫 Connect me on LinkedIn ->https://www.linkedin.com/in/nivedita-singh-a541121b5/
-
 
 <h1 align="center">Hi 👋, I'm Nivedita Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
